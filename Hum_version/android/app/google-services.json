@@ -1,0 +1,145 @@
+{
+  "project_info": {
+    "project_number": "351063796986",
+    "project_id": "hum-bazaar",
+    "storage_bucket": "hum-bazaar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351063796986:android:d4e6e1030756aa4675ed43",
+        "android_client_info": {
+          "package_name": "com.gadssolutions.hum_bazaar_ambassador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351063796986-k2pk4d0829id0l53rvltla4vmlaalttl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmf6qr8UMKi1h_iU1npUV2mfXWYOj_n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351063796986-k2pk4d0829id0l53rvltla4vmlaalttl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351063796986:android:165757aa2e3fb01d75ed43",
+        "android_client_info": {
+          "package_name": "com.gadssolutions.humbazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351063796986-j49nqfmbevgp3u68vrgqji4cvk2c5f33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gadssolutions.humbazaar",
+            "certificate_hash": "c6b3bb7b6941b1f007f41b85a15d832e7f9ba309"
+          }
+        },
+        {
+          "client_id": "351063796986-jnghknjpggci7f9egrh41607l15khgvu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gadssolutions.humbazaar",
+            "certificate_hash": "81eb8fa94cc8dc915deafcb551c0a3d860e19527"
+          }
+        },
+        {
+          "client_id": "351063796986-lauq0shmdld837fp3qi4dukftrrb40ao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gadssolutions.humbazaar",
+            "certificate_hash": "69f393bf63b88c991ce60c2d87f1660471ea0f84"
+          }
+        },
+        {
+          "client_id": "351063796986-k2pk4d0829id0l53rvltla4vmlaalttl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmf6qr8UMKi1h_iU1npUV2mfXWYOj_n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351063796986-k2pk4d0829id0l53rvltla4vmlaalttl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351063796986:android:8eb0f09d95d854eb75ed43",
+        "android_client_info": {
+          "package_name": "com.gadssolutions.humbazaarvendor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351063796986-3hv9efoi0vqltbsbntrte99ab0ka8m4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gadssolutions.humbazaarvendor",
+            "certificate_hash": "c6b3bb7b6941b1f007f41b85a15d832e7f9ba309"
+          }
+        },
+        {
+          "client_id": "351063796986-g4d5sj2q6if5smj7v6ffatfko5prlr61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gadssolutions.humbazaarvendor",
+            "certificate_hash": "fc40f4598889bc5cdf8353d8dcc45f8dc2ae25a0"
+          }
+        },
+        {
+          "client_id": "351063796986-t09cg79da9rcd7bt0c7mkm8cevecsfep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gadssolutions.humbazaarvendor",
+            "certificate_hash": "69f393bf63b88c991ce60c2d87f1660471ea0f84"
+          }
+        },
+        {
+          "client_id": "351063796986-k2pk4d0829id0l53rvltla4vmlaalttl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjmf6qr8UMKi1h_iU1npUV2mfXWYOj_n0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351063796986-k2pk4d0829id0l53rvltla4vmlaalttl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
